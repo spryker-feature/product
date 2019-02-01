@@ -6,7 +6,7 @@
   "minimum-stability": "dev",
   "require": {
     "php": ">=7.1",
-    "spryker-feature/spryker-core": "^201902.0",
+    "spryker-feature/spryker-core": "^2018.12.0",
     "spryker-shop/product-category-widget": "^1.1.2",
     "spryker-shop/product-detail-page": "^1.7.2",
     "spryker-shop/product-image-widget": "^1.0.1",
@@ -27,5 +27,10 @@
     "spryker/product-search": "^5.6.1",
     "spryker/product-search-config-storage": "^1.1.0",
     "spryker/product-storage": "^1.8.0"
+  },
+  "extra": {
+    "branch-alias": {
+      "dev-master": "201902.x-dev"
+    }
   }
 }
