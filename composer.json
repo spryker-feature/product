@@ -13,7 +13,7 @@
     "spryker-shop/product-image-widget": "^1.0.1",
     "spryker-shop/product-search-widget": "^1.0.1",
     "spryker-shop/product-widget": "^1.2.1",
-    "spryker/product": "^6.8.1",
+    "spryker/product": "^6.8.2",
     "spryker/product-abstract-data-feed": "^0.2.2",
     "spryker/product-attribute": "^1.1.1",
     "spryker/product-attribute-gui": "^1.0.7",
