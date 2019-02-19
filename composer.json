@@ -13,7 +13,7 @@
     "spryker-shop/product-image-widget": "^1.0.1",
     "spryker-shop/product-search-widget": "^1.1.0",
     "spryker-shop/product-widget": "^1.2.1",
-    "spryker/product": "^6.9.0",
+    "spryker/product": "^6.10.0",
     "spryker/product-abstract-data-feed": "^0.2.2",
     "spryker/product-attribute": "^1.1.2",
     "spryker/product-attribute-gui": "^1.2.1",
@@ -27,7 +27,7 @@
     "spryker/product-quantity-storage": "^1.2.0",
     "spryker/product-search": "^5.7.0",
     "spryker/product-search-config-storage": "^1.1.0",
-    "spryker/product-storage": "^1.8.0"
+    "spryker/product-storage": "^1.10.0"
   },
   "extra": {
     "branch-alias": {
