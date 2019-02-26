@@ -7,7 +7,7 @@
   "prefer-stable": true,
   "require": {
     "php": ">=7.1",
-    "spryker-feature/spryker-core": "^201902.0",
+    "spryker-feature/spryker-core": "^201903.0",
     "spryker-shop/product-category-widget": "^1.1.2",
     "spryker-shop/product-detail-page": "^1.9.0",
     "spryker-shop/product-image-widget": "^1.0.1",
@@ -19,19 +19,19 @@
     "spryker/product-attribute-gui": "^1.2.1",
     "spryker/product-category-filter": "^1.2.2",
     "spryker/product-category-filter-gui": "^1.2.0",
-    "spryker/product-category-filter-storage": "^1.1.0",
-    "spryker/product-category-storage": "^1.3.0",
-    "spryker/product-image-storage": "^1.5.0",
+    "spryker/product-category-filter-storage": "^1.2.0",
+    "spryker/product-category-storage": "^1.4.0",
+    "spryker/product-image-storage": "^1.6.0",
     "spryker/product-management": "^0.16.6",
     "spryker/product-page-search": "^3.4.0",
-    "spryker/product-quantity-storage": "^1.2.0",
+    "spryker/product-quantity-storage": "^1.4.0",
     "spryker/product-search": "^5.7.0",
-    "spryker/product-search-config-storage": "^1.1.0",
+    "spryker/product-search-config-storage": "^1.2.0",
     "spryker/product-storage": "^1.10.0"
   },
   "extra": {
     "branch-alias": {
-      "dev-master": "201902.x-dev"
+      "dev-master": "201903.x-dev"
     }
   }
 }
