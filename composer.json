@@ -22,7 +22,7 @@
     "spryker/product-category-filter-storage": "^1.1.0",
     "spryker/product-category-storage": "^1.3.0",
     "spryker/product-image-storage": "^1.5.0",
-    "spryker/product-management": "^0.16.6",
+    "spryker/product-management": "^0.16.7",
     "spryker/product-page-search": "^3.4.0",
     "spryker/product-quantity-storage": "^1.2.0",
     "spryker/product-search": "^5.7.0",
