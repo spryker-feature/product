@@ -7,3 +7,19 @@ Ensure a smooth shopping experience with the powerful product management feature
 ```
 composer require spryker-feature/product
 ```
+
+## Recommended feature dependencies
+- [spryker-feature/spryker-core](https://github.com/spryker-feature/spryker-core)
+
+If you don't include the feature dependencies, make sure you use the respective modules instead.
+
+## Optional modules
+- [ProductApi ^0.1.3](https://github.com/spryker/product-api) (Old API)
+- [ProductCategoryFilterCollector ^1.0.1](https://github.com/spryker/product-category-filter-collector) (Collector)
+- [ProductDiscountConnector ^5.0.0](https://github.com/spryker/product-discount-connector) (Connector)
+- [ProductImageSetsRestApi ^1.0.3](https://github.com/spryker/product-image-sets-rest-api) (Glue)
+- [ProductMerchantConnector ^1.0.0](https://github.com/spryker/product-merchant-connector) (Connector)
+- [ProductPageSearchExtension ^1.1.0](https://github.com/spryker/product-page-search-extension) (Extension)
+- [ProductsCategoriesResourceRelationship](https://github.com/spryker/products-categories-resource-relationship) (Glue)
+- [ProductsRestApi ^2.4.0](https://github.com/spryker/products-rest-api) (Glue)
+- [ProductsRestApiExtension ^1.0.0](https://github.com/spryker/products-rest-api-extension) (Extension)
