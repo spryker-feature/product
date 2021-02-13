@@ -20,7 +20,7 @@
     "spryker/product-category-filter": "^1.2.2",
     "spryker/product-category-filter-gui": "^1.2.0",
     "spryker/product-category-filter-storage": "^1.3.0",
-    "spryker/product-category-storage": "^1.8.0",
+    "spryker/product-category-storage": "^2.0.0",
     "spryker/product-discontinued": "^1.4.0",
     "spryker/product-discontinued-data-import": "^1.0.0",
     "spryker/product-discontinued-gui": "^1.3.0",
