@@ -24,5 +24,6 @@ If you don't include the feature dependencies, make sure you use the respective 
 - [ProductMerchantConnector ^1.0.0](https://github.com/spryker/product-merchant-connector) (Connector)
 - [ProductPageSearchExtension ^1.4.0](https://github.com/spryker/product-page-search-extension) (Extension)
 - [ProductsCategoriesResourceRelationship](https://github.com/spryker/products-categories-resource-relationship) (Glue)
+- [Shop.ProductSearchWidgetExtension ^1.0.0](https://github.com/spryker-shop/product-search-widget-extension) (Extension)
 - [ProductsRestApi ^2.13.0](https://github.com/spryker/products-rest-api) (Glue)
 - [ProductsRestApiExtension ^1.1.0](https://github.com/spryker/products-rest-api-extension) (Extension)
