@@ -11,7 +11,7 @@
         "spryker-shop/product-detail-page": "^3.18.0",
         "spryker-shop/product-discontinued-widget": "^1.1.0",
         "spryker-shop/product-image-widget": "^1.0.1",
-        "spryker-shop/product-search-widget": "^3.3.0",
+        "spryker-shop/product-search-widget": "^3.4.0",
         "spryker-shop/product-widget": "^1.3.0",
         "spryker/product": "^6.29.0",
         "spryker/product-abstract-data-feed": "^0.2.2",
@@ -39,7 +39,7 @@
     },
     "extra": {
         "branch-alias": {
-            "dev-master": "202211.x-dev"
+            "dev-master": "202212.x-dev"
         }
     },
     "suggest": {
