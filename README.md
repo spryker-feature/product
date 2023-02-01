@@ -15,6 +15,7 @@ If you don't include the feature dependencies, make sure you use the respective 
 
 ## Optional modules
 - [ProductApi ^0.2.0](https://github.com/spryker/product-api) (Old API)
+- [ProductAttributesBackendApi ^1.0.0](https://github.com/spryker/product-attributes-backend-api) (Glue)
 - [ProductAttributesRestApi ^1.0.0](https://github.com/spryker/product-attributes-rest-api) (Glue)
 - [ProductCategory ^4.17.0](https://github.com/spryker/product-category) (Connector)
 - [ProductCategoryFilterCollector ^1.0.1](https://github.com/spryker/product-category-filter-collector) (Collector)
