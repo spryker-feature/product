@@ -20,6 +20,7 @@ If you don't include the feature dependencies, make sure you use the respective 
 - [ProductCategory ^4.17.0](https://github.com/spryker/product-category) (Connector)
 - [ProductCategoryFilterCollector ^1.0.1](https://github.com/spryker/product-category-filter-collector) (Collector)
 - [ProductCategoryFilterGuiExtension ^1.0.0](https://github.com/spryker/product-category-filter-gui-extension) (Extension)
+- [ProductCategoryStorageExtension ^1.0.0](https://github.com/spryker/product-category-storage-extension) (Extension)
 - [ProductDiscountConnector ^5.1.0](https://github.com/spryker/product-discount-connector) (Connector)
 - [ProductExtension ^1.4.0](https://github.com/spryker/product-extension) (Extension)
 - [ProductImageSetsBackendApi ^0.1.0](https://github.com/spryker/product-image-sets-backend-api) (Glue Backend)
