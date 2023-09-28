@@ -29,7 +29,7 @@ If you don't include the feature dependencies, make sure you use the respective 
 - [ProductImageSetsRestApi ^1.0.3](https://github.com/spryker/product-image-sets-rest-api) (Legacy Glue)
 - [ProductMerchantConnector ^1.0.0](https://github.com/spryker/product-merchant-connector) (Connector)
 - [ProductPageSearchExtension ^1.6.0](https://github.com/spryker/product-page-search-extension) (Extension)
-- [ProductsBackendApi ^0.3.0](https://github.com/spryker/products-backend-api) (Legacy Glue)
+- [ProductsBackendApi ^0.3.0](https://github.com/spryker/products-backend-api) (Glue Backend)
 - [ProductsCategoriesResourceRelationship](https://github.com/spryker/products-categories-resource-relationship) (Legacy Glue)
 - [Shop.ProductSearchWidgetExtension ^1.0.0](https://github.com/spryker-shop/product-search-widget-extension) (Extension)
 - [ProductsProductImageSetsBackendResourceRelationship ^0.2.0](https://github.com/spryker/products-product-image-sets-backend-resource-relationship) (Glue Backend)
