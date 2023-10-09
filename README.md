@@ -2,7 +2,7 @@
 
 Ensure a smooth shopping experience with the powerful product management features that allow you to create a neat and fully customized product catalog. Build appropriate category hierarchies and assign attributes and custom labels to products. Enhance your services by including additional product options like gift wrapping or warranty options. Run effective promotional campaigns via time limited offers and pricing, product recommendations and Shop-the-Look collections.
 
-[Learn more](https://docs.spryker.com/docs/scos/user/back-office-user-guides/202001.0/catalog/products/products.html)
+[Learn more](https://docs.spryker.com/docs/pbc/all/product-information-management/202307.0/base-shop/feature-overviews/product-feature-overview/product-feature-overview.html)
 
 ## Installation
 
