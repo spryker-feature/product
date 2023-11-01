@@ -25,7 +25,7 @@ If you don't include the feature dependencies, make sure you use the respective 
 - [ProductCategoryStorageExtension ^1.0.0](https://github.com/spryker/product-category-storage-extension) (Extension)
 - [ProductDiscountConnector ^5.2.0](https://github.com/spryker/product-discount-connector) (Connector)
 - [ProductExtension ^1.5.0](https://github.com/spryker/product-extension) (Extension)
-- [ProductImageSetsBackendApi ^0.2.0](https://github.com/spryker/product-image-sets-backend-api) (Glue Backend)
+- [ProductImageSetsBackendApi ^1.0.0](https://github.com/spryker/product-image-sets-backend-api) (Glue Backend)
 - [ProductImageSetsRestApi ^1.0.3](https://github.com/spryker/product-image-sets-rest-api) (Legacy Glue)
 - [ProductMerchantConnector ^1.0.0](https://github.com/spryker/product-merchant-connector) (Connector)
 - [ProductPageSearchExtension ^1.6.0](https://github.com/spryker/product-page-search-extension) (Extension)
