@@ -17,6 +17,7 @@ If you don't include the feature dependencies, make sure you use the respective 
 
 ## Optional modules
 - [ProductApi ^0.2.0](https://github.com/spryker/product-api) (Old API)
+- [ProductAttributeExtension ^1.0.0](https://github.com/spryker/product-attribute-extension) (Extension)
 - [ProductAttributesBackendApi ^1.0.0](https://github.com/spryker/product-attributes-backend-api) (Legacy Glue)
 - [ProductAttributesRestApi ^1.0.0](https://github.com/spryker/product-attributes-rest-api) (Legacy Glue)
 - [ProductCategory ^4.24.0](https://github.com/spryker/product-category) (Connector)
