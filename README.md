@@ -20,7 +20,7 @@ If you don't include the feature dependencies, make sure you use the respective 
 - [ProductAttributeExtension ^1.0.0](https://github.com/spryker/product-attribute-extension) (Extension)
 - [ProductAttributesBackendApi ^1.0.0](https://github.com/spryker/product-attributes-backend-api) (Legacy Glue)
 - [ProductAttributesRestApi ^1.1.0](https://github.com/spryker/product-attributes-rest-api) (Legacy Glue)
-- [ProductCategory ^4.25.0](https://github.com/spryker/product-category) (Connector)
+- [ProductCategory ^4.28.0](https://github.com/spryker/product-category) (Connector)
 - [ProductCategoryFilterCollector ^1.0.1](https://github.com/spryker/product-category-filter-collector) (Collector)
 - [ProductCategoryFilterGuiExtension ^1.0.0](https://github.com/spryker/product-category-filter-gui-extension) (Extension)
 - [ProductCategoryStorageExtension ^1.0.0](https://github.com/spryker/product-category-storage-extension) (Extension)
